@@ -2,7 +2,7 @@
 // agent's information when ready — every page reads from this file.
 
 export const site = {
-  agentName: "Julianne Woods",
+  agentName: "Katy Redmond",
   agentTitle: "Local Real Estate Guide",
   brokerage: "Oak & Stone Realty",
   brokerageTagline: "Real Estate Group",
