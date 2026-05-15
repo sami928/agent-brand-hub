@@ -59,9 +59,9 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Julianne Woods · Real Estate in the North Valley" },
+      { title: "Katy Redmond · Real Estate in the North Valley" },
       { name: "description", content: "Personal real estate guide serving the North Valley — homes, neighborhoods, and honest local advice." },
-      { property: "og:site_name", content: "Julianne Woods Real Estate" },
+      { property: "og:site_name", content: "Katy Redmond Real Estate" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
