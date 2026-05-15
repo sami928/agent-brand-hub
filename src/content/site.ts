@@ -117,15 +117,15 @@ export const neighborhoods = [
 
 export const testimonials = [
   { name: "The Miller Family", area: "Garden District buyers", quote:
-    "Julianne made us feel like her only clients. She knows every hidden gem in this town and helped us write an offer that actually got accepted." },
+    "Katy made us feel like her only clients. She knows every hidden gem in this town and helped us write an offer that actually got accepted." },
   { name: "Daniel & Priya R.", area: "Oak Ridge sellers", quote:
-    "Sold above asking in nine days. Julianne's prep advice and staging eye made the difference — and she answered every late-night text." },
+    "Sold above asking in nine days. Katy's prep advice and staging eye made the difference — and she answered every late-night text." },
   { name: "Marcus T.", area: "First-time buyer", quote:
-    "I had no idea what I was doing. Julianne walked me through inspections, financing, the whole thing — never made me feel like I was asking dumb questions." },
+    "I had no idea what I was doing. Katy walked me through inspections, financing, the whole thing — never made me feel like I was asking dumb questions." },
   { name: "The Chen-Hollis Household", area: "Riverbend buyers", quote:
-    "We toured with three other agents before meeting Julianne. The difference was immediate. She listens." },
+    "We toured with three other agents before meeting Katy. The difference was immediate. She listens." },
   { name: "Eleanor S.", area: "Downsizing seller", quote:
-    "After 32 years in our home, selling was emotional. Julianne handled it with so much care. She's a friend now." },
+    "After 32 years in our home, selling was emotional. Katy handled it with so much care. She's a friend now." },
   { name: "The Okonkwo Family", area: "The Heights buyers", quote:
     "Negotiated us $80K under list on a home we didn't even know was coming to market. That's local knowledge." },
 ];
